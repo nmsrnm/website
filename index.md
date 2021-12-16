@@ -99,8 +99,8 @@ I am Sofia, a second-year student and a double degree program participant.<br>
 <td
 bgcolor="#EEEEFF"
 align="center">
-<img src="file:///C:/Users/nmsrn/Downloads/49590950_10158170647077571_6062398921588604928_n-removebg-preview.png" width="80" height="80">
-<img src="https://www.ks54.ru/wp-content/uploads/2020/02/ks54-300x300.png" width="80" height="80">
+<img src="https://github.com/nmsrnm/website/blob/main/site/images/49590950_10158170647077571_6062398921588604928_n-removebg-preview.png?raw=true" width="80" height="80">
+<img src="https://github.com/nmsrnm/website/blob/main/site/images/ks54-300x300.png?raw=true" width="80" height="80">
 
 </td>
 </tr>
