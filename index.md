@@ -73,7 +73,7 @@ I am Sofia, a second-year student and a double degree program participant.<br>
 
 <p>
 
-<a href="C:/Users/nmsrn/Desktop/site/index.html">
+<a href="https://nmsrnm.github.io/website/">
 
 <img src="https://cdn-icons-png.flaticon.com/512/25/25694.png" width="32" height="32">
 
@@ -81,12 +81,12 @@ I am Sofia, a second-year student and a double degree program participant.<br>
 
 </p>
 <p>
-<a href="C:\Users\nmsrn\Desktop\site\content\page 1.html">
+<a href="site/content/page 1.html">
 <img src="https://cdn-icons-png.flaticon.com/512/1668/1668151.png" width="32" height="32">
 <span style="margin-left:5px;">My hobbies</span;></a>
 </p>
 <p>
-<a href="C:/Users/nmsrn/Desktop/site/content/page%202.html">
+<a href="site/content/page 2.html">
 <img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" width="32" height="32">
 <span style="margin-left:5px;">Work experience</span></a>
 </p>
