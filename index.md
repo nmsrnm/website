@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<table
+<table>
 border="1"
 align="center"
 rules="rows"
@@ -15,7 +15,7 @@ style="width:60%;">
 
 <td>
 
-<table
+<table>
 border="1"
 background=""
 bgcolor="#CCCCFF"
@@ -33,7 +33,7 @@ style="width:100%; border-radius:5px;">
 </tr>
 </table>
 
-<table
+<table>
 border="1"
 bgcolor="#EEEEFF"
 cellpadding="10"
@@ -96,7 +96,7 @@ I am Sofia, a second-year student and a double degree program participant.<br>
 
 <tr>
 
-<td
+<td>
 bgcolor="#EEEEFF"
 align="center">
 <img src="https://github.com/nmsrnm/website/blob/main/site/images/49590950_10158170647077571_6062398921588604928_n-removebg-preview.png?raw=true" width="80" height="80">
@@ -106,7 +106,7 @@ align="center">
 </tr>
 </table>
 
-<table
+<table>
 border="1"
 bgcolor="#CCCCFF"
 height="100"
